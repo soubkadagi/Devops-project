@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bye
 hell
+=======
+i have created this file to check merge conflicts
+>>>>>>> Devops
